@@ -1,6 +1,6 @@
 # DFELMDA: Identification of miRNA–disease associations via deep forest ensemble learning based on autoencoder
 
-Author：Wei Liu, Hui Lin, Li Huang, Li Peng, Ting Tang, Qi Zhao, Li Yang
+Author：Wei Liu, Hui Lin, Li Huang, Li Peng, Ting Tang, Qi Zhao, Li Yang  
 doi：https://doi.org/10.1093/bib/bbac104
 
 ## Abstract
